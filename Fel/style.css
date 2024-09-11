@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+div {
+    background-color: cadetblue;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 1px 1px 3px gray;
+}
+
+input [type = text] {
+    width: 300px;
+    text-align: center;
+}
+
+div.x0 {
+    background-color: blanchedalmond;
+}
+
+div.x1 {
+    background-color: orchid;
+}
+
+div.y1 {
+    color: azure;
+    text-decoration: line-through;
+}
+
+span {
+    display: inline-block;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    box-shadow: 1px 1px 3px black;
+    padding: 3px;
+    cursor: pointer;
+    background-color: yellowgreen;
+}
+
+span:hover {
+    background-color: rgb(211, 144, 144);
+}
