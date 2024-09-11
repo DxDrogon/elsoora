@@ -1,0 +1,43 @@
+#main{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-color: #0d66a0;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline black;
+}
+
+.tabla{
+    background-color: rgb(215, 135, 222);
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px black;
+}
+
+div{
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 5px;
+}
+
+p {
+    text-align: center;
+    padding-bottom: 20px;
+    color: bisque;
+    font-size: 18px;
+}
+
+h2  {
+    text-decoration: underline;
+}
